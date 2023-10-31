@@ -1,6 +1,6 @@
 body {
     font-family: Arial;
-    background-image: linear-gradient(45deg, Red, Green, black);
+    background-image: url(background.jpg);
 }
 .Formulario {
     background-color: rgba(0, 0, 0, 0.9);
